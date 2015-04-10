@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 How to share data with a statistician
 ===========
 
